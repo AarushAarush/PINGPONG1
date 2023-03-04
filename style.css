@@ -1,0 +1,11 @@
+.heading{
+    width: 100%;
+    text-align: left;
+    display: inline;
+    color: white;
+    margin-bottom: 2px;
+}
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
